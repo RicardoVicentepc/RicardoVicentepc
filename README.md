@@ -24,7 +24,5 @@
 
 <br><br>
 
-### Formas de contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ricardo.vicente.pc@gmail.com)
-[![Mensseger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://web.facebook.com/Rick.S.Vicente/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5511949258733)
+### Forma de contato
+ricardo.vicente.pc@gmail.com
