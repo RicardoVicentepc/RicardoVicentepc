@@ -21,5 +21,5 @@
 <br><br>
 
 ### Forma de contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-vicente-199726216/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-vicente-199726216/) <br>
 ricardo.vicente.pc@gmail.com
