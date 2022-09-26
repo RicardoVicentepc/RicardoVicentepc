@@ -17,4 +17,5 @@
 </div>
   <hr>
 
-![Snake animation](https://github.com/RicardoVicentepc/RicadoVicentepc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RicardoVicentepc/RicardoVicentepc/blob/output/github-contribution-grid-snake.svg)
+
