@@ -16,4 +16,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-F00?style=for-the-badge&logo=gmail&logoColor=white)](ricardo.vicente.pc@gmail.com) 
 </div>
   <hr>
+  
+  ![snake gif](https://github.com/RicardoVicentepc/RicardoVicentepc/blob/output/github-contribution-grid-snake.svg)
 
