@@ -11,7 +11,9 @@
 
 - 💉 No começo de 2023, realizei um projeto com 6 pessoas, com intuito de reduzir o desperdício de vacinas mal monitoradas, ou seja, vacinas que não foram refrigeradas corretamente. Realizamos o projeto com sensores de presença e temperatura, para reduzir as perdas de vácinas. [VacSense](https://github.com/MonitorHealth)
 
-- 🍅 Atualmente, estou realizando um projeto desafiador com mais de 5 pessoas. Nosso objetivo é reduzir as perdas de tomates mal monitorados durante o trajeto. Estamos utilizando sensores de temperatura e umidade para saber o estado do tomate, e entregar em bom estado. [Pomodoro](https://github.com/SealSolution)
+- 🍅 No final do primeiro semestre realizei um projeto desafiador com mais de 5 pessoas. Nosso objetivo era reduzir as perdas de tomates mal monitorados durante o trajeto. Estamos utilizando sensores de temperatura e umidade para saber o estado do tomate, e entregar em bom estado. [Pomodoro](https://github.com/SealSolution)
+
+- 🍿 Atualmente estou desenvolvendo um projeto para monitorar os totens de segurança de cinema, utilizando Java como linguagem forte para realização deste mesmo. Pois sistemas de totens travam muito e necessitam ser monitorados para uso adequado.
 
 - 🖥️ Atualmente estou concluindo minha Graduação na universidade Sptech.. **Análise e Desenvolvimento de Sistemas.**
 
