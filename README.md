@@ -158,6 +158,3 @@ Linguagens & Tecnologias: `Apex`, `Scrum`, `Design Patters`, `Integração`, `LW
     alt="Número de visitantes no perfil"
   />
 </p>
-
-
-![Snake animation](https://github.com/RicardoVicentePc/RicardoVicentePc/blob/output/github-contribution-grid-snake.svg)
